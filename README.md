@@ -2,7 +2,7 @@
 
 ## 📋 Introduction
 Hello there! 😊  
-This is a simple university project for a database course. The project features a basic UI and SQL commands, developed with the help of YouTube, Google, GitHub, Stack Overflow, and free templates found online.
+This is a simple Diploma  project for a database course. The project features a basic UI and SQL commands, developed with the help of YouTube, Google, GitHub, Stack Overflow, and free templates found online.
 
 ## 💼 Features
 
